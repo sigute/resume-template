@@ -1,16 +1,36 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project:  Dawanda
+  description: ""
+  pictures:
+  - filename: images/dawanda1.png
+    description: User onboarding
+  - filename: images/dawanda2.png
+    description: Home page
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project:  Passenger
+  description: ""
+  pictures:
+  - filename: images/passenger1.png
+    description: Map with stop information
+  - filename: images/passenger2.png
+    description: Departure board
+  - filename: images/passenger3.png
+    description: Ticket
+
+- project:  5 a day
+  description: ""
+  pictures:
+  - filename: images/5Aday1.png
+    description: Tracking page
+  - filename: images/5Aday2.png
+    description: History page
+
+- project:  CardEase Mobile
+  description: ""
+  pictures:
+  - filename: images/creditcall1.png
+    description: Starting screen 
+  - filename: images/creditcall2.png
+    description: Purchase details screen
