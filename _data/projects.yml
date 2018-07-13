@@ -22,9 +22,9 @@
 - project:  5 a day
   description: ""
   pictures:
-  - filename: images/5Aday1.png
+  - filename: images/fiveAday1.png
     description: Tracking page
-  - filename: images/5Aday2.png
+  - filename: images/fiveAday2.png
     description: History page
 
 - project:  CardEase Mobile
